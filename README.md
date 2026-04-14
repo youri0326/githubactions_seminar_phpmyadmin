@@ -1,0 +1,1 @@
+# githubactions_seminar_phpmyadmin
